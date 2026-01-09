@@ -1,2 +1,2 @@
 # Running-a-LLM-GGUF-model-on-a-AMD-9060XT.
-read the README
+Okay, this is for everyone that has a 9060 XT, and this might work for the entire 9000 series cards, but I'm not entirely sure. You can still test it out, though. All that's in here is a file that I think uses DirectML to run a GGUF model. All you have to do is download the file and change the paths. I'll also include a script that runs a server locally on your device that you can call upon anywhere that's on your computer. Take note that this was made on Windows; I'm not entirely sure about Linux.
